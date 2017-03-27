@@ -1,4 +1,3 @@
-New
-===
-
-New test
+1st repo.
+by Vladimir Semionov.
+Love Cars, Web dev, 
